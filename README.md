@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Han Jin 
 - 👀 I’m interested in ... FrontEnd, Web-Development, Full-Stack  
-- 🌱 I’m currently learning ...React.js, React-Native, Express.js, MongoDB, Node.js, firebase
+- 🌱 I’m currently learning ...React.js, React-Native, Typescript, Express.js, MongoDB, Node.js, firebase
 - 📫 How to reach me ... phj9020@hotmail.com
 
 <!---
